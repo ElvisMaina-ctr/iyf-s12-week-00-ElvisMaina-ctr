@@ -14,4 +14,4 @@
 
 ## How to Reach Me
 - Email: [ngngamaina02@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/Elvis Ng'ang'a]
+- LinkedIn: [https://www.linkedin.com/in/ElvisNg'ang'a]
