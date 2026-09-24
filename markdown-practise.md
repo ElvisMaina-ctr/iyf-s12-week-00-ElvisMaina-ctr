@@ -49,7 +49,7 @@ I will focus on **web development** using *html and  css* and getting to underst
 
  - [x] Installation of tools required to my laptop
 
- - [x] Learning  about web hosting 
+ - [] Learning  about web hosting 
 
 # Exercise 7 Code Block
 
@@ -57,7 +57,7 @@ I will focus on **web development** using *html and  css* and getting to underst
 print("I'm Elvis Maina a software developer in making!")
 ```
 
- #Exercise 8 Blockquote
+ # Exercise 8 Blockquote
 
  >You may not be the best but always do your best!
 
@@ -82,6 +82,7 @@ print("I'm Elvis Maina a software developer in making!")
 
 ##### ADDRESS
 **How to reach me**
+
 *Tel: +254741883588*
 
 *email:ngangamaina02@gmail.com*
