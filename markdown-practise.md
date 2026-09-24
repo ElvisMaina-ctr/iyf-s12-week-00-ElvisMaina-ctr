@@ -65,6 +65,8 @@ print("I'm Elvis Maina a software developer in making!")
 
 ## Hello, I'm Elvis Maina !
 
+ I am a student at Wecan academy currently studying Computer programming to develop my skills in  software development. Am also an Ict Tutor at Stanford Institute where I teach students in digital literacy and ICT content. I enjoy cycling, social interaction mentorship for the youths, counselling others and doing charity works.Am also a businessman dealing with both Wholesale and retail of Perfumes.
+ 
 ### What am learning to Do
 **A Frontend development:** *Crafting responsive ,intuitive, and dynamic user interface*
 
