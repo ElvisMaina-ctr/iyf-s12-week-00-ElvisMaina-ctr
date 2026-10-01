@@ -89,7 +89,7 @@ print("I'm Elvis Maina a software developer in making!")
 
 *email:ngangamaina02@gmail.com*
 
-[Link text](https://github.com/ElcisMaina-ctr) My Github.
+[Link text](https://github.com/ElvisMaina-ctr) My Github.
 
 
 
