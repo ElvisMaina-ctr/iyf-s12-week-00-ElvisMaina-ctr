@@ -55,28 +55,20 @@ http://localhost:3000
  At first, I found it a bit confusing to use some Git commands and move to the right project folder in the terminal. I solved this by practicing the commands and checking my files and Git status whenever I was unsure. After some practice, I became more comfortable using Git and GitHub.
 ## Colllaborations
 
-# Task 0.3 Environment setup
+# Task 0.2 Environment setup
 Telling Git who I am after installations
 C:\Users\Administrator>git config --global --list
 user.name=ElvisMaina-ctr
 user.email=ngangamaina02@gmail.com
+# Task 0.3 Lock username and created my Profile README
+[Profile README](https://github.com/ElvisMaina-ctr)
+# Task0.4 Hosting a page on Github Pages
+[My website](https://elvismaina.github.io
+)
+# Task 0.5
+[View my Markdown practice exercises](markdown-practise.md)
+
+# Task 0.6 Team Collaboration
 
 
-# Hi, I'm Elvis Maina
 
-## About Me
-- I'm currently learning Computer Programming, "WeCan Academy at the  International Youth Fellowship Program".
-- I'm interested in "Web development".
-- I'm looking to collaborate on beginner-friendly open source projects"
-
-## Skills I'm Building
-- Git and GitHub
-- "Python", "HTML/CSS", "VScode" 
-
-## Current Projects
-- Creating My Readme
-
-## How to Reach Me
-- Email: ngangamaina02@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/ElvisNg'ang'a]
-- Github account: https://github.com/ElvisMaina-ctr 
