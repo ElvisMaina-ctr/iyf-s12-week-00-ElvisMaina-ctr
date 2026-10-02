@@ -55,7 +55,11 @@ http://localhost:3000
  At first, I found it a bit confusing to use some Git commands and move to the right project folder in the terminal. I solved this by practicing the commands and checking my files and Git status whenever I was unsure. After some practice, I became more comfortable using Git and GitHub.
 ## Colllaborations
 
-
+# Task 0.3 Environment setup
+Telling Git who I am after installations
+C:\Users\Administrator>git config --global --list
+user.name=ElvisMaina-ctr
+user.email=ngangamaina02@gmail.com
 
 
 # Hi, I'm Elvis Maina
