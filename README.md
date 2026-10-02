@@ -53,7 +53,7 @@ http://localhost:3000
  During this project, I learned how to use Git and GitHub to manage my work. I learned how to clone a repository, make changes, commit my work, and push it to GitHub. I also learned why it is important to keep my files organized and use clear commit messages.
 ## Challenges Faced
  At first, I found it a bit confusing to use some Git commands and move to the right project folder in the terminal. I solved this by practicing the commands and checking my files and Git status whenever I was unsure. After some practice, I became more comfortable using Git and GitHub.
-## Colllaborations
+
 
 # Task 0.2 Environment setup
 Telling Git who I am after installations
@@ -69,6 +69,11 @@ user.email=ngangamaina02@gmail.com
 [View my Markdown practice exercises](markdown-practise.md)
 
 # Task 0.6 Team Collaboration
+- **Team Lead:** [@Nyakito](https://github.com/Nyakito)
+- **Team Member:** [@Maina](https://github.com/ElvisMaina-ctr)
+- **Team Member:** [@tracey](https://github.com/traceywanjiru)
+- **Team Member:** [@Shaniz](https://github.com/Samcodex-405)
+
 Our team repository
 [Team repository](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito.git)
 
