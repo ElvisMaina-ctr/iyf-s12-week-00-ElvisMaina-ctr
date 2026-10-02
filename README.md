@@ -63,7 +63,7 @@ user.email=ngangamaina02@gmail.com
 # Task 0.3 Lock username and created my Profile README
 [Profile README](https://github.com/ElvisMaina-ctr)
 # Task0.4 Hosting a page on Github Pages
-[My website](https://elvismaina.github.io
+[My website](https://ElvisMaina-ctr.github.io
 )
 # Task 0.5
 [View my Markdown practice exercises](markdown-practise.md)
