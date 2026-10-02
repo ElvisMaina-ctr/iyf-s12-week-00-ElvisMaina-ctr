@@ -69,6 +69,7 @@ user.email=ngangamaina02@gmail.com
 [View my Markdown practice exercises](markdown-practise.md)
 
 # Task 0.6 Team Collaboration
-
+Our team repository
+[Team repository](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito.git)
 
 
